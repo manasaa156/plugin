@@ -6,7 +6,7 @@ from bs4 import SoupStrainer
 
 class MovieRulzApi(BaseI4M):
 
-    BASE_URL = 'http://www.movierulz.tc/'
+    BASE_URL = 'http://www.movierulz.promo/'
     SHORT_NAME = 'mr'
     LONG_NAME = 'Movie Rulz'
     LOCAL_THUMB = 'thumb_movierulz.png'
